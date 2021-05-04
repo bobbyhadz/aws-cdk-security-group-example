@@ -1,8 +1,7 @@
-# Article name here
+# Security Group Example in AWS CDK - Complete Guide
 
 A repository for an article on
-[bobbyhadz.com](https://bobbyhadz.com/blog/aws-s3-presigned-url-react)
-`<- Update Link`
+[bobbyhadz.com](https://bobbyhadz.com/blog/aws-cdk-security-group-example)
 
 ## How to Use
 

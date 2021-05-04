@@ -88,3 +88,5 @@ cdk-outputs.json
 .env
 env.js
 env.ts
+
+cdk.context.json
